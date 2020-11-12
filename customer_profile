@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Customer A",
+    "discount": {"N": 0.1},
+    "unit_charge": null,
+    "value_charge": null
+  },
+  {
+    "name": "Customer B",
+    "discount": null,
+    "unit_charge": 1,
+    "value_charge": null
+  },
+  {
+    "name": "Customer C",
+    "discount": null,
+    "unit_charge": null,
+    "value_charge": 0.05
+  },
+  {
+    "name": "Customer D",
+    "discount": {"100": 0.05, "200":  0.1, "300": 0.15},
+    "unit_charge": 2,
+    "value_charge": null
+  }
+]

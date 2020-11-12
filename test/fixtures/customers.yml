@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  discount: 1.5
+  unit_charge: 1.5
+  item_stored: 1
+
+two:
+  name: MyString
+  discount: 1.5
+  unit_charge: 1.5
+  item_stored: 1
